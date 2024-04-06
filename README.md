@@ -1,5 +1,4 @@
 # BlueSpy - PoC to record audio from a Bluetooth device
-
 ![BlueSpy script](resources/BlueSpy.png)
 
 This repository contains the implementation of a proof of concept to record and replay audio from a bluetooth device without the legitimate user's awareness.
